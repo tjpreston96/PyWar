@@ -12,7 +12,7 @@
 | ----------- | -----------                               |
 | Bracket     | Creation, Fix, Update                     |
 | Colon       | DocTest, Documentation, Testing           |
-| Hyphen      | Classes, README.md                        |
+| Hyphen      | Classes, README.md, Sections              |
 | Change      | Functions                                 |
 
 
