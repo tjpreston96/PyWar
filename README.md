@@ -10,8 +10,8 @@
 
 |   Syntax    | Options                                   |
 | ----------- | -----------                               |
-| Bracket     | Fix                                       |
-| Colon       | Documentation, Testing, DocTest, Creation |
+| Bracket     | Creation, Fix, Update                     |
+| Colon       | DocTest, Documentation, Testing           |
 | Hyphen      | Classes, README.md                        |
 | Change      | Functions                                 |
 
